@@ -60,6 +60,6 @@ Open IDE's terminal and then write `~ npm i` to install dependencies
 
 <br>
 
-Then write `~ npm start` and then enter
+Then write `~ npm run dev` and then enter
 
 Congratulations ,now you can add a contact and manage it.
