@@ -1,8 +1,8 @@
-import { Box, useTheme, Typography } from "@mui/material";
-import { DataGrid } from "@mui/x-data-grid";
-import { tokens } from '../../theme'
-import { mockDataInvoices } from '../../data/mockData'
+import {Box, useTheme, Typography} from "@mui/material";
+import {DataGrid} from "@mui/x-data-grid";
+import {mockDataInvoices} from '../../data/mockData'
 import Header from '../../components/Header'
+import {tokens} from "../../utils/tokens.js";
 
 const Invoices = () => {
 
@@ -49,7 +49,7 @@ const Invoices = () => {
 
     return (
         <Box m='20px'>
-            <Header title='INVOICES' subtitle='List of Invoice Balances' />
+            <Header title='INVOICES' subtitle='List of Invoice Balances'/>
             <Box
                 m='40px 0 0 0'
                 height='75vh'

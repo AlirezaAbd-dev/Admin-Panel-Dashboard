@@ -1,6 +1,5 @@
 import { Box, Typography, useTheme } from "@mui/material";
 import { DataGrid } from "@mui/x-data-grid";
-import { tokens } from '../../theme'
 import { mockDataTeam } from '../../data/mockData'
 import {
     AdminPanelSettingsOutlined,
@@ -8,6 +7,7 @@ import {
     SecurityOutlined
 } from "@mui/icons-material";
 import Header from '../../components/Header'
+import {tokens} from "../../utils/tokens.js";
 
 const Team = () => {
 

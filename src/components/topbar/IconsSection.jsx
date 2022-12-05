@@ -1,8 +1,8 @@
 import { DarkModeOutlined, LightModeOutlined, NotificationsOutlined, PersonOutlined, SettingsOutlined } from "@mui/icons-material";
 import { Box, IconButton, useTheme } from "@mui/material";
 import { useContext } from "react";
+import {ColorModeContext} from "../../context/context.js";
 
-import { ColorModeContext } from "../../theme";
 
 const IconsSection = () => {
 
