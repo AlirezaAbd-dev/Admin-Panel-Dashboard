@@ -9,9 +9,13 @@
 <br><br><br>
 
 <div align='center'>
-    <h2>Main Dashboard</h2>
-    <img style='border-radius:5px' src="./images/1.png"></img>
-    <br>
+    <h2>Dark Mode</h2>
+    <img style='border-radius:5px' src="./images/dark.png"></img>
+</div>
+<hr/>
+<div align='center'>
+    <h2>Dark Mode</h2>
+    <img style='border-radius:5px' src="./images/light.png"></img>
 </div>
 <hr>
 
