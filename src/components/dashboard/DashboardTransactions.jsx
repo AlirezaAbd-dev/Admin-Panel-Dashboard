@@ -18,8 +18,8 @@ const DashboardTransactions = () => {
         display="flex"
         justifyContent="space-between"
         alignItems="center"
-        borderBottom={`4px solid ${colors.primary[500]}`}
-        colors={colors.grey[100]}
+        borderBottom={`4px solid ${colors.grey[900]}`}
+        color={colors.grey[100]}
         p="15px"
       >
         <Typography color={colors.grey[100]} variant="h5" fontWeight="600">

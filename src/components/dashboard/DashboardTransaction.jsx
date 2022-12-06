@@ -10,7 +10,7 @@ const DashboardTransaction = ({ transaction }) => {
       display="flex"
       justifyContent="space-between"
       alignItems="center"
-      borderBottom={`4px solid ${colors.primary[500]}`}
+      borderBottom={`4px solid ${colors.grey[900]}`}
       p="15px"
     >
       <Box>
