@@ -1,5 +1,5 @@
 import { Box, useTheme } from "@mui/material";
-import {tokens} from "../src/utils/tokens.js";
+import {tokens} from "../utils/tokens.js";
 
 const SidebarLayout = ({ children }) => {
   const theme = useTheme();

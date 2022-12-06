@@ -1,14 +1,14 @@
 import { Route, Routes } from "react-router-dom";
-import Bar from "../src/scenes/bar";
-import Contacts from "../src/scenes/contacts";
-import Dashboard from "../src/scenes/dashboard";
-import FAQ from "../src/scenes/faq";
-import Form from "../src/scenes/form";
-import Geography from "../src/scenes/geography";
-import Invoices from "../src/scenes/invoices";
-import Line from "../src/scenes/line";
-import Pie from "../src/scenes/pie";
-import Team from "../src/scenes/team";
+import Bar from "../scenes/bar/index.jsx";
+import Contacts from "../scenes/contacts/index.jsx";
+import Dashboard from "../scenes/dashboard/index.jsx";
+import FAQ from "../scenes/faq/index.jsx";
+import Form from "../scenes/form/index.jsx";
+import Geography from "../scenes/geography/index.jsx";
+import Invoices from "../scenes/invoices/index.jsx";
+import Line from "../scenes/line/index.jsx";
+import Pie from "../scenes/pie/index.jsx";
+import Team from "../scenes/team/index.jsx";
 
 const Routing = () => {
     return (
