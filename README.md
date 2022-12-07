@@ -14,7 +14,7 @@
 </div>
 <hr/>
 <div align='center'>
-    <h2>Dark Mode</h2>
+    <h2>Light Mode</h2>
     <img style='border-radius:5px' src="./images/light.png"></img>
 </div>
 <hr>
@@ -62,4 +62,4 @@ Open IDE's terminal and then write `~ npm i` to install dependencies
 
 Then write `~ npm run dev` and then enter
 
-Congratulations ,now you can add a contact and manage it.
+Congratulations ,now you use the dashboard to manage your website.
